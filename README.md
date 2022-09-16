@@ -2,9 +2,10 @@
 This repository is a sample project that delivers Google Colab code to perform segmentation for cell nucleus in biomedical imaged.
 
 ## Requirements
-Tensoflow==1.x
-Keras==2.x
-Scikit-image==0.16.x
+(Some downgrading are required if you are using the latest versions)
+- Tensoflow==1.x
+- Keras==2.x
+- Scikit-image==0.16.x
 
 ## Steps to implement
 ### 1: Clone the libraries at https://github.com/matterport/Mask_RCNN
